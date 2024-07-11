@@ -1,0 +1,445 @@
+[
+
+
+    {
+          "id":1,
+          "name":"Relentless",
+          "title":"  A Classic Western Adventure (saga)",
+          "price":"0",
+          "category":"Free",
+          "image": "https://m.media-amazon.com/images/I/81QklD1AnNL._SL1500_.jpg"
+
+
+ },
+
+
+
+ {
+    "id":2,
+    "name":"DEATH",
+    "title":"  A Book For All Those who shall Die",
+    "price":"100",
+    "category":"Thriller",
+    "image": "https://m.media-amazon.com/images/I/91JO2pVO7RL._SL1500_.jpg"
+
+
+},
+
+
+
+
+{
+    "id":3,
+    "name":" Infliction Point ",
+    "title":" A Zach Axton Thriller",
+    "price":"550",
+    "category":"Thriller",
+    "image": "https://m.media-amazon.com/images/I/81R-3ZZI9ML._SL1500_.jpg"
+
+
+},
+
+
+
+
+
+{
+    "id":4,
+    "name":" The Legend Is Born",
+    "title":"The Legends of Lainjin, Book Three ",
+    "price":"0",
+    "category":"Free",
+    "image": "https://m.media-amazon.com/images/I/81GAvqJydLL._SL1500_.jpg"
+
+
+},
+
+
+
+
+
+
+
+{
+    "id":5,
+    "name":"Dragon Moon Rising   ",
+    "title":" All will be lost with the coming of the full moon. ",
+    "price":"800",
+    "category":"Thriller",
+    "image": "https://m.media-amazon.com/images/I/917zxUMj8sL._SL1500_.jpg"
+
+
+},
+
+
+{
+    "id":6,
+    "name":"A Dance with the Fae Prince",
+    "title":"A Stand Alone Fantasy Romance  ",
+    "price":"800",
+    "category":"Love",
+    "image": "https://m.media-amazon.com/images/I/91yDI-JFcgS._SL1500_.jpg"
+
+
+},
+
+
+
+{
+    "id":7,
+    "name":" The Legend Is Born(2)",
+    "title":"The Legends of Lainjin, Book Two",
+    "price":"0",
+    "category":"Free",
+    "image": "https://m.media-amazon.com/images/I/81GAvqJydLL._SL1500_.jpg"
+
+
+},
+
+
+
+{
+    "id":8,
+    "name":"Voyage of Reprisal",
+    "title":"  (Elizabethan Sea Dogs Book 1)",
+    "price":"0",
+    "category":"Free",
+"image":"https://m.media-amazon.com/images/I/81C-0bpuvaL._SL1500_.jpg"
+},
+
+
+
+
+
+{
+    "id":9,
+    "name":"Relentless(2)",
+    "title":"  A Classic Western Adventure ",
+    "price":"0",
+    "category":"Free",
+    "image": "https://m.media-amazon.com/images/I/81QklD1AnNL._SL1500_.jpg"
+
+
+},
+
+
+
+{
+"id":10,
+"name":"DEATH(2)",
+"title":"  A Book For All Those who shall Die",
+"price":"100",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/91JO2pVO7RL._SL1500_.jpg"
+
+
+},
+
+
+
+
+{
+"id":11,
+"name":"Dragon Moon Rising (2)  ",
+"title":" All will be lost with the coming of the full moon. ",
+"price":"800",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/917zxUMj8sL._SL1500_.jpg"
+
+
+},
+
+
+
+
+
+{
+"id":12,
+"name":" The Legend Is Born",
+"title":"The Legends of Lainjin, Book four ",
+"price":"0",
+"category":"Free",
+"image": "https://m.media-amazon.com/images/I/81GAvqJydLL._SL1500_.jpg"
+
+
+},
+
+
+
+
+
+{
+"id":13,
+"name":" Infliction Point (2)",
+"title":" A Zach Axton Thriller",
+"price":"550",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/81R-3ZZI9ML._SL1500_.jpg"
+
+
+},
+
+
+
+
+{
+"id":14,
+"name":"A Dance with the Fae Prince (2)",
+"title":"A Stand Alone Fantasy Romance  ",
+"price":"800",
+"category":"Love",
+"image": "https://m.media-amazon.com/images/I/91yDI-JFcgS._SL1500_.jpg"
+
+
+},
+
+
+
+{
+"id":15,
+"name":" The Legend Is Born",
+"title":"The Legends of Lainjin, Book one",
+"price":"0",
+"category":"Free",
+"image": "https://m.media-amazon.com/images/I/81GAvqJydLL._SL1500_.jpg"
+
+
+},
+
+
+
+{
+"id":16,
+"name":"Voyage of Reprisal",
+"title":"  (Elizabethan Sea Dogs Book 2)",
+"price":"0",
+"category":"Free",
+"image":"https://m.media-amazon.com/images/I/81C-0bpuvaL._SL1500_.jpg"
+},
+
+
+
+
+{
+    "id":17,
+    "name":"Relentless",
+    "title":"  A Classic Western Adventure (saga)",
+    "price":"0",
+    "category":"Free",
+    "image": "https://m.media-amazon.com/images/I/81QklD1AnNL._SL1500_.jpg"
+
+
+},
+
+
+
+
+{
+"id":18,
+"name":"DEATH",
+"title":"  A Book For All Those who shall Die",
+"price":"100",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/91JO2pVO7RL._SL1500_.jpg"
+
+
+},
+
+
+
+
+{
+"id":19,
+"name":"Dragon Moon Rising   ",
+"title":" All will be lost with the coming of the full moon. ",
+"price":"800",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/917zxUMj8sL._SL1500_.jpg"
+
+
+},
+
+
+
+
+
+{
+"id":20,
+"name":" The Legend Is Born",
+"title":"The Legends of Lainjin, Book Three ",
+"price":"0",
+"category":"Free",
+"image": "https://m.media-amazon.com/images/I/81GAvqJydLL._SL1500_.jpg"
+
+
+},
+
+
+
+
+
+{
+"id":21,
+"name":" Infliction Point ",
+"title":" A Zach Axton Thriller",
+"price":"550",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/81R-3ZZI9ML._SL1500_.jpg"
+
+
+},
+
+
+
+
+{
+"id":22,
+"name":"A Dance with the Fae Prince",
+"title":"A Stand Alone Fantasy Romance  ",
+"price":"800",
+"category":"Love",
+"image": "https://m.media-amazon.com/images/I/91yDI-JFcgS._SL1500_.jpg"
+
+
+},
+
+
+
+{
+"id":23,
+"name":" The Legend Is Born(2)",
+"title":"The Legends of Lainjin, Book Two",
+"price":"0",
+"category":"Free",
+"image": "https://m.media-amazon.com/images/I/81GAvqJydLL._SL1500_.jpg"
+
+
+},
+
+
+
+{
+"id":24,
+"name":"Voyage of Reprisal",
+"title":"  (Elizabethan Sea Dogs Book 1)",
+"price":"0",
+"category":"Free",
+"image":"https://m.media-amazon.com/images/I/81C-0bpuvaL._SL1500_.jpg"
+},
+
+
+
+
+
+{
+"id":25,
+"name":"Relentless(2)",
+"title":"  A Classic Western Adventure ",
+"price":"0",
+"category":"Free",
+"image": "https://m.media-amazon.com/images/I/81QklD1AnNL._SL1500_.jpg"
+
+
+},
+
+
+
+{
+"id":26,
+"name":"DEATH(2)",
+"title":"  A Book For All Those who shall Die",
+"price":"100",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/91JO2pVO7RL._SL1500_.jpg"
+
+
+},
+
+
+
+
+{
+"id":27,
+"name":"Dragon Moon Rising (2)  ",
+"title":" All will be lost with the coming of the full moon. ",
+"price":"800",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/917zxUMj8sL._SL1500_.jpg"
+
+
+},
+
+
+
+
+
+{
+"id":28,
+"name":" The Legend Is Born",
+"title":"The Legends of Lainjin, Book four ",
+"price":"0",
+"category":"Free",
+"image": "https://m.media-amazon.com/images/I/81GAvqJydLL._SL1500_.jpg"
+
+
+},
+
+
+
+
+
+{
+"id":29,
+"name":" Infliction Point (2)",
+"title":" A Zach Axton Thriller",
+"price":"550",
+"category":"Thriller",
+"image": "https://m.media-amazon.com/images/I/81R-3ZZI9ML._SL1500_.jpg"
+
+
+},
+
+
+
+
+{
+"id":30,
+"name":"A Dance with the Fae Prince (2)",
+"title":"A Stand Alone Fantasy Romance  ",
+"price":"800",
+"category":"Love",
+"image": "https://m.media-amazon.com/images/I/91yDI-JFcgS._SL1500_.jpg"
+
+
+},
+
+
+
+{
+"id":31,
+"name":" The Legend Is Born",
+"title":"The Legends of Lainjin, Book one",
+"price":"0",
+"category":"Free",
+"image": "https://m.media-amazon.com/images/I/81GAvqJydLL._SL1500_.jpg"
+
+
+},
+
+
+
+{
+"id":32,
+"name":"Voyage of Reprisal",
+"title":"  (Elizabethan Sea Dogs Book 2)",
+"price":"0",
+"category":"Free",
+"image":"https://m.media-amazon.com/images/I/81C-0bpuvaL._SL1500_.jpg"
+}
+
+
+
+
+
+
+]
